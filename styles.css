@@ -1,0 +1,125 @@
+.image1{
+    height:850px ; 
+    width:100% ;
+    background:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)) , url(images/image1.jpg);
+   
+}
+.btn1{
+    background-color: #18ea19;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    border-radius: 4px;
+    padding-left:15px ;
+    padding-right:15px ;
+    padding-bottom: 6px;
+    height: 41px;
+    width: 115px;
+    border-style: solid;
+    border-color: #18ea19;
+}
+.header{
+    position: relative;
+}
+.bar{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    right: 10px;    
+}
+span{
+    font-weight: 800;
+}
+.textheader{
+    position: absolute;
+    bottom: 100px;
+    left: 110px;
+    top:370px;
+}
+.secdiv-content{
+    text-align: center;
+    padding-top: 15px;
+    font-size: 27px;
+    font-weight: bold;
+}
+.secdiv-content-color{
+    text-align: center;
+    color: #18ea19;
+    font-weight: 800;
+    font-size: 60px;
+}
+.thirddiv1{
+    font-size:3vw;   
+    text-align: start;
+}
+.thirddiv2{
+    font-size: 3vw;
+    font-weight: bold;
+}
+.thirddiv3{
+    font-size: 2vw;
+    padding-left: 40px;
+    margin-top: 30px;
+    margin-right: 90px;
+}
+.thirddiv4{
+    color:#18ea19;
+    padding-left: 40px;
+    margin-top: 30px;
+    font-size: 2vw;
+}
+.forthinfo1{
+    color:white;
+    font-size: 43px;
+}
+.forthinfo2{
+    color: white;
+    font-size: 43px;
+    font-weight: bold;
+}
+.fifth-div-1{
+    font-size: 33px;
+}
+.sixth-div1{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+.nineth-div1{
+    text-align: center;
+    font-size: 40px;
+    padding-top:40px;
+    font-weight: bold;
+}
+.nineth-div2{
+    text-align: center;
+    font-size: 40px;
+}
+.nineth-div3{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+.btn3{
+    background-color: black;
+    color: white;
+    border-radius: 6px;
+    width: 135px;
+    height: 55px;
+    font-size: 22px; 
+ }
+ .footer1{
+    flex: 1;
+    text-align: center;
+    color: #18ea19;
+    font-size: 18px;
+}
+ .footer2{
+    flex: 1;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
